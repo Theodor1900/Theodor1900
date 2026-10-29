@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 Coding, tryign to do something in Cybersecurity 
 
